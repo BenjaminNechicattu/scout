@@ -1,0 +1,7 @@
+
+pyautogui
+keyboard
+speechrecognition
+mouseinfo
+pyscreeze
+Pillow>=9.2.0
