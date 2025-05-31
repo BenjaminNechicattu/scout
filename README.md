@@ -3,6 +3,8 @@ screen control operator using tools
 
 Aim : Control Personal Computers using voice over interactions.
 
+## its not even close to what i expect. Work in progres
+
 Architecture : 
 
 
